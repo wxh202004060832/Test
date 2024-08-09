@@ -35,7 +35,7 @@ from sklearn.linear_model import SGDRegressor
 
 
 
-DATA = pd.read_excel('C:/Users/XZJ/Desktop/电机转矩12-22.xlsx')
+DATA = pd.read_excel('C:/Users/lqh/Desktop/电机转矩12-22.xlsx')
 # 截取上面数据集中的前21列，包括所有20列特征和一列输出
 
 # 截取上面数据集中的前21列，包括所有20列特征和一列输出
